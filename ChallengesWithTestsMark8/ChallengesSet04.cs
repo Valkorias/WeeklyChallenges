@@ -85,7 +85,7 @@ namespace ChallengesWithTestsMark8
             {
                 if (num % 2 == 0)
                 {
-                    sum += num; //sum = sum + num
+                    sum += num; 
                     count++;
                 }
             }
